@@ -1,5 +1,10 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.1-beta
+
+- Time locale
+- Fix notify duplicates
+
 ### v.1.0.0
 
 - Gameplay
@@ -23,4 +28,3 @@
 - Shuffle games
 - Alert all players about the reserved game
 - Help system
-
