@@ -3,7 +3,8 @@
 ### v.1.0.1-beta
 
 - Time locale
-- Fix notify duplicates
+- Fix notify ws duplicates
+- Additional information about the created game
 
 ### v.1.0.0
 
