@@ -5,6 +5,7 @@
 - Time locale
 - Fix notify ws duplicates
 - Additional information about the created game
+- Fix new game int number notify
 
 ### v.1.0.0
 
