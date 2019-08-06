@@ -10,6 +10,7 @@
 - Prepare tx > Notify API > Broadcast tx
 - Personalize system menu
 - Gamers chat
+- Add chat quotes
 
 ### v.1.0.0
 
