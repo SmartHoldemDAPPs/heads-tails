@@ -8,6 +8,7 @@
 - Fix new game int number notify
 - Find best peers (network module storage)
 - Prepare tx > Notify API > Broadcast tx
+- Personalize system menu
 
 ### v.1.0.0
 
