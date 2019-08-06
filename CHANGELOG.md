@@ -7,6 +7,7 @@
 - Additional information about the created game
 - Fix new game int number notify
 - Find best peers (network module storage)
+- Prepare tx > Notify API > Broadcast tx
 
 ### v.1.0.0
 
