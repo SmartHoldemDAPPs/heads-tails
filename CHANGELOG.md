@@ -9,6 +9,7 @@
 - Find best peers (network module storage)
 - Prepare tx > Notify API > Broadcast tx
 - Personalize system menu
+- Gamers chat
 
 ### v.1.0.0
 
