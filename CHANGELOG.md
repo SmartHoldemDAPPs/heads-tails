@@ -6,6 +6,7 @@
 - Fix notify ws duplicates
 - Additional information about the created game
 - Fix new game int number notify
+- Find best peers (network module storage)
 
 ### v.1.0.0
 
