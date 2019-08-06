@@ -24,7 +24,7 @@
 - Exchange service
 - Localizations ru, en
 - Exchange Deps history
-- Supported exchange assets: bts, btc, dash, doge, ltc, onion, post
+- Supported exchange assets: bts, btc, dash, doge, ltc, post, nmc
 - Lock screen
 - Wallet encryption using pin code
 - Import existing SmartHoldem account
