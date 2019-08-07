@@ -12,6 +12,7 @@
 - Gamers chat
 - Add chat quotes
 - Players online
+- Releases updates check
 
 ### v.1.0.0
 
