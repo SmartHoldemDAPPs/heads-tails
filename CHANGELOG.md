@@ -11,6 +11,7 @@
 - Personalize system menu
 - Gamers chat
 - Add chat quotes
+- Players online
 
 ### v.1.0.0
 
