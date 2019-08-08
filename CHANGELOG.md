@@ -12,7 +12,9 @@
 - Gamers chat
 - Add chat quotes
 - Players online
-- Releases updates check
+- Releases updates checker
+- Auto Scale coin
+- Min height app optimize
 
 ### v.1.0.0
 
