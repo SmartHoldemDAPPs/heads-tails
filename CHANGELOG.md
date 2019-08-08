@@ -15,6 +15,7 @@
 - Releases updates checker
 - Auto Scale coin
 - Min height app optimize
+- Fix latest notify
 
 ### v.1.0.0
 
