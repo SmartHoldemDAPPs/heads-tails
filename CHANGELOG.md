@@ -17,6 +17,7 @@
 - Min height app optimize
 - Fix latest notify
 - Gameplay move to ws
+- Fix chat history
 
 ### v.1.0.0
 
