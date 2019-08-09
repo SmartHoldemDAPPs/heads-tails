@@ -16,6 +16,7 @@
 - Auto Scale coin
 - Min height app optimize
 - Fix latest notify
+- Gameplay move to ws
 
 ### v.1.0.0
 
