@@ -18,6 +18,8 @@
 - Fix latest notify
 - Gameplay move to ws
 - Fix chat history
+- Connection monitor update
+- Drag drop system menu fix
 
 ### v.1.0.0
 
