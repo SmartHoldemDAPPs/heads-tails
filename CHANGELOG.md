@@ -20,6 +20,8 @@
 - Fix chat history
 - Connection monitor update
 - Drag drop system menu fix
+- Fix return from chat
+- Broadcast play tx after response game api
 
 ### v.1.0.0
 
