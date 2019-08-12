@@ -1,5 +1,13 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.2-beta
+
+- Broadcast play tx after response game api
+- Mobile tx list view
+- Copy clipboard tx data
+- Mobile Deposits Exchange History
+
+
 ### v.1.0.1-beta
 
 - Time locale
@@ -21,10 +29,6 @@
 - Connection monitor update
 - Drag drop system menu fix
 - Fix return from chat
-- Broadcast play tx after response game api
-- Mobile tx list view
-- Copy clipboard tx data
-- Mobile Deposits Exchange History
 
 ### v.1.0.0
 
