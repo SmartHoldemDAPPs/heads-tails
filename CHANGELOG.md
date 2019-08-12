@@ -24,6 +24,7 @@
 - Broadcast play tx after response game api
 - Mobile tx list view
 - Copy clipboard tx data
+- Mobile Deposits Exchange History
 
 ### v.1.0.0
 
