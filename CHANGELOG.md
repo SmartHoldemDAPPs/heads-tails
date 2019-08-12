@@ -22,6 +22,8 @@
 - Drag drop system menu fix
 - Fix return from chat
 - Broadcast play tx after response game api
+- Mobile tx list view
+- Copy clipboard tx data
 
 ### v.1.0.0
 
