@@ -4,6 +4,8 @@
 
 - Mobile Deposits Exchange History
 - Desktop: on create game check connect before tx
+- Small fix mobile chat
+- Mobile ws events
 
 ### v.1.0.2-beta
 
