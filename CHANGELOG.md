@@ -6,6 +6,7 @@
 - Desktop: on create game check connect before tx
 - Small fix mobile chat
 - Mobile ws events
+- Add CNY, DeepOnion into wallet exchange section
 
 ### v.1.0.2-beta
 
