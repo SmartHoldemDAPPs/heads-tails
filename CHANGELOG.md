@@ -1,12 +1,15 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.3-beta
+
+- Mobile Deposits Exchange History
+- Desktop: on create game check connect before tx
+
 ### v.1.0.2-beta
 
 - Broadcast play tx after response game api
 - Mobile tx list view
 - Copy clipboard tx data
-- Mobile Deposits Exchange History
-- Desktop: on create game check connect before tx
 
 ### v.1.0.1-beta
 
