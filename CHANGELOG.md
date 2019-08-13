@@ -6,7 +6,7 @@
 - Mobile tx list view
 - Copy clipboard tx data
 - Mobile Deposits Exchange History
-
+- Desktop: on create game check connect before tx
 
 ### v.1.0.1-beta
 
