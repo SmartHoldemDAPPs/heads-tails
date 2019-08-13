@@ -7,6 +7,7 @@
 - Small fix mobile chat
 - Mobile ws events
 - Add CNY, DeepOnion into wallet exchange section
+- Added balance display in USD, BTC, RUB, CNY
 
 ### v.1.0.2-beta
 
