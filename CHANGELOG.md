@@ -3,6 +3,8 @@
 ### v.1.0.4-beta
 
 - Mobile: fix deposit section
+- Fix game events
+- Fix ws game server
 
 ### v.1.0.3-beta
 
