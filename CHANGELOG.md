@@ -9,6 +9,7 @@
 - Improved Gaming Node Connectivity
 - Prepared to exchange: Spectrecoin, DeepOnion, Namecoin, Universe, bitCNY, bitRUBLE, bitUSD, EVRAZ
 - Dynamic game stats
+- My balance in currency tooltips
 
 ### v.1.0.3-beta
 
