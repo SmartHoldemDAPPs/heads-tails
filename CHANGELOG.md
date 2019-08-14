@@ -1,5 +1,9 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.4-beta
+
+- Mobile: fix deposit section
+
 ### v.1.0.3-beta
 
 - Mobile Deposits Exchange History
