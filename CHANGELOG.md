@@ -6,6 +6,7 @@
 - Fix game events
 - Fix ws game server
 - Add balance currencies: bitcoin, ethereum, ruble, cny, usd, jpy, euro, pound sterlins, polish zloty, turkish lira, mxn, br real, nz$, norway krone, south won
+- Improved Gaming Node Connectivity
 
 ### v.1.0.3-beta
 
