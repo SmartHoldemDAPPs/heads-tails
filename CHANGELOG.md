@@ -11,6 +11,7 @@
 - Dynamic game stats
 - My balance in currency tooltips
 - BlockChain SmartHoldem connections monitor
+- Dropdown list currencies move to top system menu
 
 ### v.1.0.3-beta
 
