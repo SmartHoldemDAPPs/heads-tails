@@ -13,6 +13,11 @@
 - BlockChain SmartHoldem connections monitor
 - Dropdown list currencies move to top system menu
 
+- (1.1) Gaming ws API events
+- (1.2) Gaming rest/json API
+- (3) SmartHoldem BlockChain API
+- (4) Exchange API
+
 ### v.1.0.3-beta
 
 - Mobile Deposits Exchange History
