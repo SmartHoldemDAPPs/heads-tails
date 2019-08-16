@@ -9,6 +9,7 @@
 - Add reload on network icons
 - Correction of duplicate statistics
 - Add more reserved nodes
+- Fix chat after import account
 
 ### v.1.0.4-beta
 
