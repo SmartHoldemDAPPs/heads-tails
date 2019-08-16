@@ -1,5 +1,10 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.5-beta
+
+- Update my game stats
+- Dropdown list currencies move to top system menu
+
 ### v.1.0.4-beta
 
 - Mobile: fix deposit section
@@ -11,7 +16,6 @@
 - Dynamic game stats
 - My balance in currency tooltips
 - BlockChain SmartHoldem connections monitor
-- Dropdown list currencies move to top system menu
 
 - (1.1) Gaming ws API events
 - (1.2) Gaming rest/json API
