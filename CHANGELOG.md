@@ -7,6 +7,7 @@
 - Update Gaming Nodes
 - Fix mobile top menu
 - Add reload on network icons
+- Correction of duplicate statistics
 
 ### v.1.0.4-beta
 
