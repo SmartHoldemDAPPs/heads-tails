@@ -8,6 +8,7 @@
 - Fix mobile top menu
 - Add reload on network icons
 - Correction of duplicate statistics
+- Add more reserved nodes
 
 ### v.1.0.4-beta
 
