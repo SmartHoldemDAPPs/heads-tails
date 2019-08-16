@@ -4,6 +4,9 @@
 
 - Update my game stats
 - Dropdown list currencies move to top system menu
+- Update Gaming Nodes
+- Fix mobile top menu
+- Add reload on network icons
 
 ### v.1.0.4-beta
 
