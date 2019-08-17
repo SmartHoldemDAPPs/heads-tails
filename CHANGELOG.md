@@ -1,5 +1,11 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.6-beta
+
+Open Beta
+
+- Fix chat after import account
+
 ### v.1.0.5-beta
 
 - Update my game stats
@@ -9,7 +15,6 @@
 - Add reload on network icons
 - Correction of duplicate statistics
 - Add more reserved nodes
-- Fix chat after import account
 
 ### v.1.0.4-beta
 
