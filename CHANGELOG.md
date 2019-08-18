@@ -3,7 +3,7 @@
 ### v.1.0.7-beta
 
 - Show result in table of only waiting game
-
+- Detail profit stats
 
 ### v.1.0.6-beta
 
