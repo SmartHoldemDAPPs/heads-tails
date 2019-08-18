@@ -4,6 +4,7 @@
 
 - Show result in table of only waiting game
 - Detail profit stats
+- Copy clipboards game data stats
 
 ### v.1.0.6-beta
 
