@@ -6,6 +6,8 @@
 - Detail profit stats
 - Copy clipboards game data stats
 - System menu tooltip market prices
+- Sounds
+- Settings section
 
 ### v.1.0.6-beta
 
