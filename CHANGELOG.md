@@ -5,6 +5,7 @@
 - Show result in table of only waiting game
 - Detail profit stats
 - Copy clipboards game data stats
+- System menu tooltip market prices
 
 ### v.1.0.6-beta
 
