@@ -8,6 +8,7 @@
 - System menu tooltip market prices
 - Sounds
 - Settings section
+- Winner animations
 
 ### v.1.0.6-beta
 
