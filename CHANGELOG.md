@@ -9,6 +9,7 @@
 - Sounds
 - Settings section
 - Winner animations
+- Fit to screen app
 
 ### v.1.0.6-beta
 
