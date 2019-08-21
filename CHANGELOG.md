@@ -3,6 +3,9 @@
 ### v.1.0.8-beta
 
 - Chinese localization update
+- Affiliate partner program
+    - Each partner receives a reward + 1% of the referral winnings
+    - Each referral gets + 1% to his winnings.
 
 ### v.1.0.7-beta
 
