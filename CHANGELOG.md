@@ -1,5 +1,9 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.8-beta
+
+- Chinese localization update
+
 ### v.1.0.7-beta
 
 - Show result in table of only waiting game
