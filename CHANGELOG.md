@@ -7,6 +7,7 @@
     - Each partner receives a reward + 1% of the referral winnings
     - Each referral gets + 1% to his winnings.
     - new referral notification real time
+- Only Single Instance Application
 
 ### v.1.0.7-beta
 
