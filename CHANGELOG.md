@@ -8,6 +8,7 @@
     - Each referral gets + 1% to his winnings.
     - new referral notification real time
 - Only Single Instance Application
+- Splash screen
 
 ### v.1.0.7-beta
 
