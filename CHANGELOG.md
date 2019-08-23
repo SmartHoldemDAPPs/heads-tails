@@ -1,5 +1,9 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.9-beta
+
+- Auto updater app prepare
+
 ### v.1.0.8-beta
 
 - Chinese localization update
