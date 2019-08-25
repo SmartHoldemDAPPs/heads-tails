@@ -4,6 +4,7 @@
 
 - Auto updater app prepare
 - Better bid verification
+- Fix games counter
 
 ### v.1.0.8-beta
 
