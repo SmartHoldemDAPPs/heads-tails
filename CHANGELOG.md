@@ -3,6 +3,7 @@
 ### v.1.0.9-beta
 
 - Auto updater app prepare
+- Better bid verification
 
 ### v.1.0.8-beta
 
