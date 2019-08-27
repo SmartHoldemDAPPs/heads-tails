@@ -5,6 +5,7 @@
 - Auto updater app prepare
 - Better bid verification
 - Fix games counter
+- Games total amount stats K, M
 
 ### v.1.0.8-beta
 
