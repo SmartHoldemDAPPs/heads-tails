@@ -7,6 +7,7 @@
 - Fix games counter
 - Games total amount stats K, M
 - Fix stats amount win - lose
+- Add end game time in stats
 
 ### v.1.0.8-beta
 
