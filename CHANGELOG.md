@@ -8,6 +8,7 @@
 - Games total amount stats K, M
 - Fix stats amount win - lose
 - Add end game time in stats
+- Add ETH on SmartHoldem exchange
 
 ### v.1.0.8-beta
 
