@@ -1,6 +1,6 @@
 ## SmartHoldem Heads or Tails
 
-### v.1.0.9-beta
+### v.1.0.888-beta
 
 - Auto updater app prepare
 - Better bid verification
