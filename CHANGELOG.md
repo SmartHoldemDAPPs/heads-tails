@@ -6,6 +6,7 @@
 - Better bid verification
 - Fix games counter
 - Games total amount stats K, M
+- Fix stats amount win - lose
 
 ### v.1.0.8-beta
 
