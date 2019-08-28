@@ -3,7 +3,7 @@
 ### v.1.0.888-beta
 
 - Auto updater app prepare
-- Better bid verification
+- Better bet verification
 - Fix games counter
 - Games total amount stats K, M
 - Fix stats amount win - lose
