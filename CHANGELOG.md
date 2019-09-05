@@ -10,6 +10,7 @@
 - Add end game time in stats
 - Add ETH on SmartHoldem exchange
 - Upgrade exchange api
+- Help update
 
 ### v.1.0.8-beta
 
