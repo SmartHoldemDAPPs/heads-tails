@@ -1,5 +1,10 @@
 ## SmartHoldem Heads or Tails
 
+### v.1.0.12
+
+- Search best peers & seeds
+- Update tx constructor
+
 ### v.1.0.888-beta
 
 - Auto updater app prepare
